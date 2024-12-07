@@ -1,0 +1,12 @@
+version 16.0.0.1==> Migrated this module v15 to v16.
+
+version 16.0.0.2 (21/12/2022)==> Improved domain for get only storable product.
+
+version 16.0.0.3 ==> Fixed when select french language after that scheduled run but mail data show in english.
+
+16.0.0.4 ==> Fixed issue of when set config value after sometime schedual action can't be work properly.
+
+16.0.0.5 ==> Changes whole module code.
+
+16.0.0.6 ==> Update when notification based on Forcast and min qty based on record rule at that time show wrong quanity in report.
+
